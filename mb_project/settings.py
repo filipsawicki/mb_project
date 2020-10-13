@@ -24,7 +24,7 @@ SECRET_KEY = 'be263=vsabyfwt06)svn6zb*pmb3hx#=*funoid+ili&#$--go'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['*']
 
 # Application definition
 
